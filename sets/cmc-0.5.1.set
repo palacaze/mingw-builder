@@ -1,0 +1,12 @@
+boost
+cereal
+eigen
+json
+msgpack
+qt
+qwt
+lz4
+snappy
+zstd
+zeromq-4.1.6
+czmq-3.0.2
